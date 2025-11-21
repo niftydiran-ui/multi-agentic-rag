@@ -160,11 +160,12 @@ MIT License
 
 ## About the Maintainer
 
-This project is actively maintained by **Mustaq Sohail Shaik**, a Software Engineer with experience in architecting and deploying intelligent systems, particularly those leveraging machine learning and scalable software design. Mustaq is passionate about delivering AI-driven solutions that enhance automation and user experience.
-
+This project is actively maintained by **Diran Dodda**, AI Engineer specializing in intelligent systems, LLMs, and multi-agent architectures. Developed an agent-based Al financial analyst processing 200GB+ data with automated decision-making and NLP models achieving 92% accuracy (published). Built a real-time BERT-driven sentiment analysis system supporting 15K inferences per
+minute.
+Proficient in LangChain, OpenAl APIs, Transformers, RAG systems, and production-grade Al
+deployments on AWS.
 - **GitHub:** [github.com/dirandodda](https://github.com/dirandodda)
-- **LinkedIn:** [Mustaq Sohail Shaik](https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/)
-- **Email:** sohailshaik8255@gmail.com
+- **Email:** doddadiran@gmail.com 
 
 ---
 
